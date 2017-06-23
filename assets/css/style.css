@@ -1,0 +1,68 @@
+
+.jumbotron{
+	background-color: #000;
+	color: #fff;
+}
+
+.hfnt{
+	margin-top: 0;
+	font-size: 50px;
+	margin-right: 0;
+}
+
+.at-cnt{
+	margin-bottom: 60px;	
+}
+
+tr>th{
+	padding-bottom: 10px;
+}
+
+tr>td{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-top: 1px solid #ddd;
+}
+
+.td-edit{
+	padding: 1px;
+	width: 100%;
+}
+
+.td-edit:focus{
+	border: 1px solid blue;
+}
+
+.ts-hfnt{
+	font-size: 20px;
+	font-weight: bold;
+	margin: 10px;
+}
+
+.at-hfnt{
+	font-size: 20px;
+	font-weight: bold;
+	margin: 10px;
+}
+
+.at-label{
+	display: block;
+	margin-left: 10px;
+}
+
+.at-input{
+	display: block;
+	width: 95%;
+	margin: 10px;
+}
+
+.at-submit{
+	margin: 10px;
+}
+
+/*Change width and background for footer section*/
+.footer{
+	width: 100%;
+	background-color: #1c1e22;
+	padding-top: 5px;
+}
