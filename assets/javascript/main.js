@@ -1,3 +1,13 @@
+var config = {
+apiKey: ENV['API_KEY'],
+authDomain: ENV['AUTH_DOMAIN'],
+databaseURL: ENV['DB_URL'],
+projectId: ENV['PRJ_ID'],
+storageBucket: ENV['ST_BUCKET'],
+messagingSenderId: ENV['SND_ID']
+};
+
+
 // Initialize Firebase
 firebase.initializeApp(config);
 
