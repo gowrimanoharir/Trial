@@ -1,10 +1,10 @@
 var config = {
-apiKey: ENV['API_KEY'],
-authDomain: ENV['AUTH_DOMAIN'],
-databaseURL: ENV['DB_URL'],
-projectId: ENV['PRJ_ID'],
-storageBucket: ENV['ST_BUCKET'],
-messagingSenderId: ENV['SND_ID']
+apiKey: process.env.API_KEY,
+authDomain: process.env.AUTH_DOMAIN,
+databaseURL: process.env.DB_URL,
+projectId: process.env.PRJ_ID,
+storageBucket: process.env.ST_BUCKET,
+messagingSenderId: process.env.SND_ID
 };
 
 
