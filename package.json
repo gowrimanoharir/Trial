@@ -2,7 +2,7 @@
   "name": "trial",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,5 +16,5 @@
   "bugs": {
     "url": "https://github.com/gowrimanoharir/Trial/issues"
   },
-  "homepage": "https://github.com/gowrimanoharir/Trial/"
+  "homepage": "https://fast-falls-62221.herokuapp.com/"
 }
